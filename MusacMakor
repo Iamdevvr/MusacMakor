@@ -1,0 +1,4 @@
+puts"MusacMakor!"
+puts"Enter lyrics:"
+lyrics = gets.chomp
+puts"#{lyrics}"
